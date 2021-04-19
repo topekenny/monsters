@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kenny-monsters/static/css/main.22a15676.chunk.css",
+    "main.js": "/kenny-monsters/static/js/main.489435b9.chunk.js",
+    "main.js.map": "/kenny-monsters/static/js/main.489435b9.chunk.js.map",
+    "runtime-main.js": "/kenny-monsters/static/js/runtime-main.fec97f98.js",
+    "runtime-main.js.map": "/kenny-monsters/static/js/runtime-main.fec97f98.js.map",
+    "static/js/2.72cbcc59.chunk.js": "/kenny-monsters/static/js/2.72cbcc59.chunk.js",
+    "static/js/2.72cbcc59.chunk.js.map": "/kenny-monsters/static/js/2.72cbcc59.chunk.js.map",
+    "static/js/3.9311debc.chunk.js": "/kenny-monsters/static/js/3.9311debc.chunk.js",
+    "static/js/3.9311debc.chunk.js.map": "/kenny-monsters/static/js/3.9311debc.chunk.js.map",
+    "index.html": "/kenny-monsters/index.html",
+    "static/css/main.22a15676.chunk.css.map": "/kenny-monsters/static/css/main.22a15676.chunk.css.map",
+    "static/js/2.72cbcc59.chunk.js.LICENSE.txt": "/kenny-monsters/static/js/2.72cbcc59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec97f98.js",
+    "static/js/2.72cbcc59.chunk.js",
+    "static/css/main.22a15676.chunk.css",
+    "static/js/main.489435b9.chunk.js"
+  ]
+}
